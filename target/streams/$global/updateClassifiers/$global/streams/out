@@ -1,0 +1,192 @@
+[debug] :: resolving dependencies :: org.myorganization#cs474p2$sources_javadoc;0.1
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->default(compile)]
+[info] Resolving org.jgrapht#jgrapht-core;1.0.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d635fb1
+[debug] sbt-chain: module revision found in cache: org.jgrapht#jgrapht-core;1.0.0
+[debug] 	found org.jgrapht#jgrapht-core;1.0.0 in sbt-chain
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [runtime]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [test]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [runtime]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile-internal]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->master]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [optional]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [provided]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile-internal->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile-internal->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile-internal->master]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [runtime-internal]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [runtime]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->master]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [optional]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime-internal->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime-internal->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime-internal->master]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [test-internal]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [test]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [runtime]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [compile->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [runtime->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test->master]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [optional]
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [provided]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test-internal->default(compile)]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test-internal->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test-internal->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.jgrapht#jgrapht-core;1.0.0 [test-internal->master]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for org.myorganization#cs474p2$sources_javadoc;0.1 [scala-tool]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-compiler;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.4
+[debug] 	found org.scala-lang#scala-compiler;2.10.4 in sbt-chain
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-compiler;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-compiler;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-compiler;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-library;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
+[debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
+[debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-library;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-library;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-library;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-reflect;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
+[debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-reflect;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-reflect;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#scala-reflect;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#jline;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#jline;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#jline;2.10.4
+[debug] 	found org.scala-lang#jline;2.10.4 in sbt-chain
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#jline;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#jline;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.scala-lang#jline;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.fusesource.jansi#jansi;1.4 [scala-tool->default(compile)]
+[info] Resolving org.fusesource.jansi#jansi;1.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4
+[debug] 	found org.fusesource.jansi#jansi;1.4 in sbt-chain
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.fusesource.jansi#jansi;1.4 [scala-tool->runtime]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.fusesource.jansi#jansi;1.4 [scala-tool->compile]
+[debug] == resolving dependencies org.myorganization#cs474p2$sources_javadoc;0.1->org.fusesource.jansi#jansi;1.4 [scala-tool->master]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 		tried C:\Users\Vanra\.ivy2\local\org.jgrapht\jgrapht-core\1.0.0\docs\jgrapht-core-javadoc.jar
+[debug] 		tried C:\Users\Vanra\.ivy2\local\org.jgrapht\jgrapht-core\1.0.0\srcs\jgrapht-core-sources.jar
+[debug] 	[NOT REQUIRED] org.jgrapht#jgrapht-core;1.0.0!jgrapht-core.jar
+[debug] 		tried https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-javadoc.jar
+[info] downloading https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-javadoc.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-javadoc.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-javadoc.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.jgrapht#jgrapht-core;1.0.0!jgrapht-core.jar(doc) (2167ms)
+[debug] 		tried https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-sources.jar
+[info] downloading https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/jgrapht/jgrapht-core/1.0.0/jgrapht-core-1.0.0-sources.jar
+[info] 	[SUCCESSFUL ] org.jgrapht#jgrapht-core;1.0.0!jgrapht-core.jar(src) (672ms)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
+[debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
+[debug] :: resolution report :: resolve 32ms :: artifacts dl 2855ms
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 compile produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-compile.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 runtime produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-runtime.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 test produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-test.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 provided produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-provided.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 optional produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-optional.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 compile-internal produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-compile-internal.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 runtime-internal produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-runtime-internal.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 test-internal produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-test-internal.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 plugin produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-plugin.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 sources produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-sources.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 docs produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-docs.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 pom produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-pom.xml
+[debug] 	report for org.myorganization#cs474p2$sources_javadoc;0.1 scala-tool produced in C:\Users\Vanra\Desktop\CS474P2\target\resolution-cache\reports\org.myorganization-cs474p2$sources_javadoc-scala-tool.xml
+[debug] 	resolve done (32ms resolve - 2855ms download)
